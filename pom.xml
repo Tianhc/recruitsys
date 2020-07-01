@@ -26,7 +26,7 @@
 		<!-- servlet-api版本 -->
 		<servlet-api.version>2.5</servlet-api.version>
 		<!-- mysql-connector-java版本 -->
-		<mysql-connector-java.version>5.1.37</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.16</mysql-connector-java.version>
 		<!-- commons-dbcp版本 -->
 		<commons-dbcp.version>1.4</commons-dbcp.version>
 		<!-- mybatis-spring版本 -->
